@@ -1,0 +1,17 @@
+# compiled output
+/dist
+/node_modules
+
+/coverage
+/.nyc_output
+
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+.env.example
+pg_data
