@@ -25,14 +25,14 @@ This is a template project for a Nest.js application, featuring a variety of com
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/devmaiko/nest-template-ts
    ```
 
 2. Install dependencies:
 
    ```bash
    cd your-project
-   npm install
+   yarn install
    ```
 
 ## Configuration
@@ -51,7 +51,7 @@ Swagger is integrated into the application to automatically generate API documen
 1. Start the application in development mode:
 
    ```bash
-   npm run start:dev
+   yarn start:dev
    ```
 
 2. Open your web browser and navigate to [http://localhost:3000/api-docs](http://localhost:3000/api-docs) to explore the API endpoints.
@@ -61,7 +61,7 @@ Swagger is integrated into the application to automatically generate API documen
 ESLint is used for code linting to maintain code quality and consistency. To lint your code:
 
 ```bash
-npm run lint
+yarn lint
 ```
 
 ESLint will analyze your code and report any linting errors or warnings based on the rules defined in `.eslintrc.js`. Make sure to address any linting issues before committing your changes.
@@ -71,13 +71,13 @@ ESLint will analyze your code and report any linting errors or warnings based on
 - Run unit tests:
 
   ```bash
-  npm test
+  yarn test
   ```
 
 - Run E2E tests:
 
   ```bash
-  npm run test:e2e
+  yarn test:e2e
   ```
 
 ## Contributing
