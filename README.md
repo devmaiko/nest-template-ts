@@ -4,7 +4,7 @@
 
 ![Nest.js Logo](https://nestjs.com/img/logo_text.svg)
 
-This is a template project for a Nest.js application, featuring a variety of commonly used technologies and best practices.
+This is a simple template project for a Nest.js application, featuring a variety of commonly used technologies and best practices.
 
 ## Features
 
